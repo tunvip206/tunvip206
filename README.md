@@ -1,7 +1,5 @@
 <!-- tunvip206 -->
-<a href="#" target="_blank">
-  <img src="svg/tunvip206.svg" width="1200" alt="tunvip206" />
-</a>
+# Hi Everyone!, I'm Tunvip206 👋🏼:
 
 <h2 align="center">🛠 My Tech Stack 🛠</h2>                
 <br>
@@ -55,8 +53,7 @@
 </div>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/kunkey-quotes.svg" width="846" height="150" alt="tunvip206-mot-lap-trinh-vien-mern-stack-advanced" />
-</a>
+
+<img src="https://raw.githubusercontent.com/tunvip206/tunvip206/output/snake.svg" alt="Snake animation" />
+
+
