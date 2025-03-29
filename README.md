@@ -54,6 +54,5 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/tunvip206/tunvip206/output/snake.svg" alt="Snake animation" />
 
 
